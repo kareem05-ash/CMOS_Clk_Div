@@ -21,7 +21,7 @@ First of all, we choose **TSPC** over **Standard Static CMOS** methodology for t
 ### TSPC Pros
 
 - Best choice for high speed applications
-    - TSPC DFF is designed from ~ 9 transistors only
+    - TSPC DFF is designed from ~ 11 transistors only
     - Lower parasitic capacitance (faster switching)
 - Lower power consumption for the desired speed with respect to static CMOS power consumption
 - Single phase clk: no need for clk inversion (prevent skew issues)
